@@ -23,7 +23,7 @@ except ImportError:
 
 # demo agent acess token: e5dc21cab6df451c866bf5efacb40178
 
-CLIENT_ACCESS_TOKEN = 'YOUR_ACCESS_TOKEN'
+CLIENT_ACCESS_TOKEN = '9aeb8e523efc4b1ca57e17fc2971aa95'
 
 
 def main():
